@@ -1,0 +1,6 @@
+ID,Amount,Category,Date,Description,Type
+1,1,1200.0,Transport,2024-09-26 17:05:00,expense,88
+2,1,600.0,Food,2024-09-26 17:05:14,expense,8866
+6,1,12222.0,Transport,2024-09-26 17:26:01,expense,33
+7,1,5567.0,Entertainment,2024-09-26 17:28:41,expense,GG
+8,1,1234567.0,Utilities,2024-09-26 17:38:21,expense,78657
